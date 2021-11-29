@@ -14,9 +14,9 @@ Currently, I am a sophomore in Korea University and double majoring in Industria
 
 ## Experience:books:
 - Member of KUBIG, Korea University's Data Science Society(2021.07-Present)
-- KAIST [Training on the development of problem-solving artificial intelligence technology in the first half of 2021](2021.01.25-01.29)
-- Korea.Univ [Linux Server and Deep Learning Applied Curriculum](2021.05.7-05.28)
-- SNU [Machine learning/deep learning that conquers theory and practice](2021.07.12-7.23)
+- KAIST Training on the development of problem-solving artificial intelligence technology in the first half of 2021(2021.01.25-01.29)
+- Korea.Univ Linux Server and Deep Learning Applied Curriculum(2021.05.7-05.28)
+- SNU Machine learning/deep learning that conquers theory and practice(2021.07.12-7.23)
 
 ## Awards and Honors:trophy:
 - 3rd Award IME Project for Application of GPU Server 2021
