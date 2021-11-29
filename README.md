@@ -1,5 +1,6 @@
 ## Hello!:grinning:
-I am a student dreaming of becoming an AI engineer. Currently, I am a sophomore in the Department of Industrial Management Engineering at Korea University.
+I am a student dreaming of becoming an AI engineer.   
+Currently, I am a sophomore in Korea University and double majoring in Industrial Management Engineering and Computer Science.
 
 ## Interest:mag:
 - Computer Vision
