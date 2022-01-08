@@ -4,8 +4,8 @@ Currently, I am a sophomore in Korea University and double majoring in Industria
 </br> My blog -> (https://science886.tistory.com/)
 
 ## Interest:mag:
-- Computer Vision
-- Deep Learning
+- Model Architecture for Vision
+- 3D Computer Vision, NeRF
 - Explainable AI (XAI)
 
 ## Tech Stack:computer:
@@ -14,6 +14,7 @@ Currently, I am a sophomore in Korea University and double majoring in Industria
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=black"/>
 
 ## Experience:books:
+- Undergraduate research student of CVLAB, Korea University Computer Vision Lab (->https://cvlab.korea.ac.kr/) (2021.01.03~Present)
 - Member of KUBIG, Korea University's Data Science Society (2021.07-Present)
 - KAIST Training on the development of problem-solving artificial intelligence technology in the first half of 2021 (2021.01.25-01.29)
 - Korea.Univ Linux Server and Deep Learning Applied Curriculum (2021.05.7-05.28)
