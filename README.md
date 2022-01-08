@@ -5,7 +5,7 @@ Currently, I am a sophomore in Korea University and double majoring in Industria
 
 ## Interest:mag:
 - Model Architecture for Vision
-- 3D Computer Vision, NeRF
+- 3D Vision, NeRF
 - Explainable AI (XAI)
 
 ## Tech Stack:computer:
