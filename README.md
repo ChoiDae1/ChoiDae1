@@ -1,7 +1,7 @@
 ## Hello!:grinning:
 I am a student dreaming of becoming an AI engineer.   
 Currently, I am a sophomore in Korea University and double majoring in Industrial Management Engineering and Computer Science.
-</br> My blog -> (https://science886.tistory.com/)
+</br> My blog: (https://science886.tistory.com/)
 
 ## Interest:mag:
 - Model Architecture for Vision
