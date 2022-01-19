@@ -2,9 +2,9 @@
 - I am a student dreaming of becoming an AI engineer.   
 - Currently, I am a sophomore in Korea University and Undergraduate research student of CVLAB, Computer Vision Lab.
 </br> My blog: (https://science886.tistory.com/)
-<a href="https://instagram.com/alpox.dev">
-<img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://science886.tistory.com/"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="https://science886.tistory.com/">
 <img alt="" src ="https://img.shields.io/badge/TISTORY-FF6347.svg?&style=flat&link=https://science886.tistory.com/"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  
 ## Interest:mag:
 - Model Architecture for Vision
 - 3D Vision, NeRF
