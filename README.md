@@ -1,6 +1,6 @@
-## 👋 Hello!
-- **I'm a student dreaming of becoming an AI Researcher.**
-- **Currently, Studying at Korea University and Participating undergraduate research student of CVLAB, Vision Lab.**
+                                                             ## 👋 Hello!
+                                      **I'm a student dreaming of becoming an AI Researcher.**
+                 **Currently, Studying at Korea University and Participating undergraduate research student of CVLAB, Vision Lab.**
 
 <a href="https://science886.tistory.com/">
 <img alt="" src ="https://img.shields.io/badge/TISTORY-FF6347.svg?&style=flat&link=https://science886.tistory.com/"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
