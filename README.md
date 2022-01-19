@@ -1,5 +1,5 @@
 ## 👋 Hello!
-- I am a student dreaming of becoming an AI engineer.   
+- I am a student dreaming of becoming an AI Reseacher.   
 - Studying at Korea University and Participating undergraduate research student of CVLAB, Computer Vision Lab.
 
 <a href="https://science886.tistory.com/">
