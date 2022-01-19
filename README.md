@@ -5,7 +5,7 @@
 <a href="https://science886.tistory.com/">
 <img alt="" src ="https://img.shields.io/badge/TISTORY-FF6347.svg?&style=flat&link=https://science886.tistory.com/"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   
-## 💡Interest
+## 💡 Interest
 - Model Architecture for Vision
 - 3D Vision, NeRF
 - Explainable AI (XAI)
