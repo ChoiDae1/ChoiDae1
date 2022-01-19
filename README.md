@@ -1,8 +1,10 @@
 ## Hello!:grinning:
-I am a student dreaming of becoming an AI engineer.   
-Currently, I am a sophomore in Korea University and double majoring in Industrial Management Engineering and Computer Science.
+- I am a student dreaming of becoming an AI engineer.   
+- Currently, I am a sophomore in Korea University and Undergraduate research student of CVLAB, Computer Vision Lab.
 </br> My blog: (https://science886.tistory.com/)
-
+<a href="https://instagram.com/alpox.dev">
+<img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://science886.tistory.com/"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img alt="" src ="https://img.shields.io/badge/TISTORY-FF6347.svg?&style=flat&link=https://science886.tistory.com/"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 ## Interest:mag:
 - Model Architecture for Vision
 - 3D Vision, NeRF
@@ -13,14 +15,3 @@ Currently, I am a sophomore in Korea University and double majoring in Industria
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=black"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=black"/>
 
-## Experience:books:
-- Undergraduate research student of CVLAB, Korea University Computer Vision Lab (2021.01.03-Present) [-> link](https://cvlab.korea.ac.kr/)
-- Member of KUBIG, Korea University's Data Science Society (2021.07-Present)
-- KAIST Training on the development of problem-solving artificial intelligence technology in the first half of 2021 (2021.01.25-01.29)
-- Korea.Univ Linux Server and Deep Learning Applied Curriculum (2021.05.7-05.28)
-- SNU Machine learning/deep learning that conquers theory and practice (2021.07.12-7.23)
-
-## Awards and Honors:trophy:
-- 3rd Award IME Project for Application of GPU Server 2021
-- Academic Excellence Award 1st Semerster 2021
-- 7th place Medical AI Challenge Pathology video 2021
