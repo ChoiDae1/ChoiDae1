@@ -1,9 +1,11 @@
 ## 👋 Hello!
 - I am a student dreaming of becoming an AI engineer.   
-- I am a sophomore in Korea University and Undergraduate research student of CVLAB, Computer Vision Lab.
+- Studying at Korea University and Participating undergraduate research student of CVLAB, Computer Vision Lab.
 
 <a href="https://science886.tistory.com/">
 <img alt="" src ="https://img.shields.io/badge/TISTORY-FF6347.svg?&style=flat&link=https://science886.tistory.com/"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="https://cvlab.korea.ac.kr/">
+<img alt="" src ="https://img.shields.io/badge/CVLAB-00BFFF.svg?&style=flat&link=https://cvlab.korea.ac.kr/"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   
 ## 💡 Interest
 - Model Architecture for Vision
