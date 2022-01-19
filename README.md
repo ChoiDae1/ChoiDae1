@@ -7,7 +7,7 @@
 <a href="https://cvlab.korea.ac.kr/">
 <img alt="" src ="https://img.shields.io/badge/CVLAB-00BFFF.svg?&style=flat&link=https://cvlab.korea.ac.kr/"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   
-## 💡 Interest
+## 🔍 Interest
 - Model Architecture for Vision
 - 3D Vision, NeRF
 - Explainable AI (XAI)
