@@ -1,4 +1,4 @@
-## 👋 Hello!
+## Hello! 👋
 - 🌱  **I'm a student dreaming of becoming an AI Researcher.**
 - ✏️  **Currently, Studying at Korea University and Participating undergraduate research student of CVLAB, Vision Lab.** 
 
