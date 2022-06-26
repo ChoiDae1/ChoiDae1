@@ -11,6 +11,7 @@
 - **Model Architecture for Vision**
 - **3D Vision, NeRF**
 - **Explainable AI (XAI)**
+- **Computer Graphics**
 
 ## 💻 Tech Stack
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
