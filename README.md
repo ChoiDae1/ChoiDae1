@@ -10,12 +10,12 @@
 </div>
 <div align='center'>
 <h1>Interest:mag_right:</h1>
-<ul>
-<b>3D Vision, NeRF</b><br>
-<b>Image Inversion and Latent Editing</b><br>
-<b>Explainable AI (XAI)</b><br>
-<b>Computer Graphics</b>
-</ul>
+<p>
+<b>3D Vision, NeRF<br>
+Image Inversion and Latent Editing<br>
+Explainable AI (XAI)<br>
+Computer Graphics</b>
+</p>
 </div>
 
 
