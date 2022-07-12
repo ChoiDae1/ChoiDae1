@@ -9,7 +9,7 @@
   </div>
 </div>
 <div align='center'>
-<h1>Interest:mag_right:</h1>
+<h1>&nbsp;&nbsp;Interest:mag_right:</h1>
 <p>
 <b>3D Vision, NeRF<br>
 Image Inversion and Latent Editing<br>
