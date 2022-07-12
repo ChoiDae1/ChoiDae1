@@ -1,20 +1,25 @@
-## Hello! 👋
-- 🌱  **I'm a student dreaming of becoming an AI Researcher.**
-- ✏️  **Currently, Studying at Korea University and Participating undergraduate research student of <a href="https://cvlab.korea.ac.kr/">CVLAB</a>, Vision Lab.** 
-<div align="center">
-<strong>If you want to know more about me, Pls visit my blog!</strong> 
-<div align="center">
-:arrow_right::arrow_right: <a href="https://science886.tistory.com/"><b>link</b></a>
+<div align="center"><h1>Hello!:raised_hands:</h1>
+  <p><strong> I'm a student dreaming of becoming an AI Researcher.<br>
+  Currently, Studying at Korea University and Participating undergraduate research student of <a href="https://cvlab.korea.ac.kr/">CVLAB</a>, Vision Lab.   </strong></p>
+  <div align="center">
+    <strong>If you want to know more about me, Pls visit my blog!:relieved:</strong> 
+    <div align="center">
+    :arrow_right::arrow_right: <a href="https://science886.tistory.com/"><b>link</b></a>
+    </div>
+  </div>
 </div>
+<div align='center'>
+<h1>Interest:mag_right:</h1>
+<ul>
+<b>3D Vision, NeRF</b><br>
+<b>Image Inversion and Latent Editing</b><br>
+<b>Explainable AI (XAI)</b><br>
+<b>Computer Graphics</b>
+</ul>
 </div>
-  
-## 🔍 Interest
-- **Model Architecture for Vision**
-- **3D Vision, NeRF**
-- **Explainable AI (XAI)**
-- **Computer Graphics**
 
-## 💻 Tech Stack
+
+<div align="center"><h1>Tech Stack:computer:</h1>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=black"/>
@@ -26,6 +31,7 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</div>
 
 
 
