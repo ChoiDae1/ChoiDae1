@@ -2,7 +2,7 @@
   <p><strong> I'm a student dreaming of becoming an AI Researcher.<br>
   Currently, Studying at Korea University and Participating undergraduate research student of <a href="https://cvlab.korea.ac.kr/">CVLAB</a>, Vision Lab.   </strong></p>
   <div align="center">
-    <strong>If you want to know more about me, Pls take a look my CV or Blog!:relieved:</strong> 
+    <strong>If you want to know more about me, Pls look over my CV or Blog!:relieved:</strong> 
     <div align="center">
     :arrow_right: <a href="https://github.com/ChoiDae1/ChoiDae1/files/9692097/CV.pdf"><b>CV</b></a>&nbsp;
     :arrow_right: <a href="https://science886.tistory.com/"><b>Blog</b></a>
@@ -13,10 +13,12 @@
 <div align='center'>
 <h1>&nbsp;&nbsp;Interest:mag_right:</h1>
 <p>
-<b>-&nbsp;3D Vision, NeRF<br>
+<b>
+-&nbsp;2D/3D Generative models (GAN, Diffusion)<br>
+-&nbsp;3D Modeling, NeRF<br>
 -&nbsp;Image Inversion and Latent Editing<br>
--&nbsp;Explainable AI (XAI)<br>
--&nbsp;Computer Graphics</b>
+-&nbsp;Explainable AI (XAI)
+</b>
 </p>
 </div>
 
