@@ -2,11 +2,12 @@
   <p><strong> I'm a student dreaming of becoming an AI Researcher.<br>
   Currently, Studying at Korea University and Participating undergraduate research student of <a href="https://cvlab.korea.ac.kr/">CVLAB</a>, Vision Lab.   </strong></p>
   <div align="center">
-    <strong>If you want to know more about me, Pls visit my blog!:relieved:</strong> 
+    <strong>If you want to know more about me, Pls take a look my CV or Blog!:relieved:</strong> 
     <div align="center">
-    :arrow_right::arrow_right: <a href="https://science886.tistory.com/"><b>link</b></a>
+    :arrow_right: <a href="https://github.com/ChoiDae1/ChoiDae1/files/9692097/CV.pdf"><b>CV</b></a>&nbsp;
+    :arrow_right: <a href="https://science886.tistory.com/"><b>Blog</b></a>
     </div>
-  </div>
+
 </div>
 
 <div align='center'>
