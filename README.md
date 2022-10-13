@@ -4,7 +4,7 @@
   <div align="center">
     <strong>If you want to know more about me, Pls look over my CV or Blog!:relieved:</strong> 
     <div align="center">
-    :arrow_right: <a href="https://github.com/ChoiDae1/ChoiDae1/files/9692097/CV.pdf"><b>CV</b></a>&nbsp;
+    :arrow_right: <a href="https://github.com/ChoiDae1/ChoiDae1/files/9770895/CV.pdf"><b>CV</b></a>&nbsp;
     :arrow_right: <a href="https://science886.tistory.com/"><b>Blog</b></a>
     </div>
 
