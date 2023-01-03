@@ -4,7 +4,7 @@
   <div align="center">
     <strong>If you want to know more about me, Pls look over my CV or Blog!:relieved:</strong> 
     <div align="center">
-    :arrow_right: <a href="https://github.com/ChoiDae1/ChoiDae1/files/10047171/CV.pdf"><b>CV</b></a>&nbsp;
+    :arrow_right: <a href="https://github.com/ChoiDae1/ChoiDae1/files/10334421/CV.pdf"><b>CV</b></a>&nbsp;
     :arrow_right: <a href="https://science886.tistory.com/"><b>Blog</b></a>
     </div>
 
@@ -12,11 +12,12 @@
 
 
 
+
 <div align='center'>
 <h1>&nbsp;&nbsp;Interest:mag_right:</h1>
 <p>
 <b>
- -&nbsp;Meta-learning, Unsupervised learning<br>
+-&nbsp;Meta-learning, Unsupervised learning<br>
 -&nbsp;2D/3D Generative models (GAN, Diffusion)<br>
 -&nbsp;Image Inversion and Latent Editing<br>
 -&nbsp;Explainable AI (XAI)
