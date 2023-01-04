@@ -7,7 +7,7 @@
     :arrow_right: <a href="https://github.com/ChoiDae1/ChoiDae1/files/10337642/CV.pdf"><b>CV</b></a>&nbsp;
     :arrow_right: <a href="https://science886.tistory.com/"><b>Blog</b></a>
     </div>
-    <strong>To contact me, Pls use email address or Instagram.</strong> 
+    <strong>To contact me, Pls use Email or Instagram.</strong> 
     <div align="center">
     <a href="https://www.instagram.com/choi_dae1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=black"/>
     </div>
