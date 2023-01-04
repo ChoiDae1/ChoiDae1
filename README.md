@@ -9,7 +9,7 @@
     </div>
     <strong>To contact me, Pls use Email or Instagram.</strong>    
     <div align="center">
-    <a href="mailto:daeone0920@korea.ac.kr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=black"/>
+    <a href="mailto:daeone0920@korea.ac.kr"><img src="https://img.shields.io/badge/Gmail-DCDCDC?style=flat-square&logo=Gmail&logoColor=EA4335"/>
     <a href="https://www.instagram.com/choi_dae1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=black"/>
     </div>
 
