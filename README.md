@@ -7,7 +7,6 @@
     :arrow_right: <a href="https://github.com/ChoiDae1/ChoiDae1/files/10337642/CV.pdf"><b>CV</b></a>&nbsp;
     :arrow_right: <a href="https://science886.tistory.com/"><b>Blog</b></a>
     </div>
-    <br>
     <strong>To contact me, Pls use Email or Instagram.</strong>    
     <div align="center">
     <a href="mailto:daeone0920@korea.ac.kr"><img src="https://img.shields.io/badge/Gmail-DCDCDC?style=flat-square&logo=Gmail&logoColor=EA4335"/>
