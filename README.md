@@ -1,6 +1,6 @@
 <div align="center"><h1>&nbsp;&nbsp;Hello!:raised_hands:</h1>
   <p><strong> I'm a student dreaming of becoming an AI Researcher.<br>
-  Currently, Studying at Korea University and Participating undergraduate research intern of <a href="https://cvlab.korea.ac.kr/">CVLAB</a>, Vision Lab.   </strong></p>
+  Currently, Studying at Korea University.   </strong></p>
   <div align="center">
     <strong>To know more info about me, Pls look over my CV or Portfolio or Blog.</strong> 
     <div align="center">
