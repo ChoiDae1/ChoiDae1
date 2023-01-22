@@ -2,10 +2,9 @@
   <p><strong> I'm a student dreaming of becoming an AI Researcher.<br>
   Currently, Studying at Korea University.   </strong></p>
   <div align="center">
-    <strong>To know more info about me, Pls look over my CV or Portfolio or Blog.</strong> 
+    <strong>To know more info about me, Pls look over my CV or Blog.</strong> 
     <div align="center">
     :arrow_right: <a href="https://github.com/ChoiDae1/ChoiDae1/files/10474597/CV.pdf"><b>CV</b></a>&nbsp;
-    :arrow_right: <a href="https://github.com/ChoiDae1/ChoiDae1/files/10474667/default.pdf"><b>Portfolio</b></a>&nbsp;
     :arrow_right: <a href="https://science886.tistory.com/"><b>Blog</b></a>
     </div>
     <strong>To contact me, Pls use Email or Instagram.</strong>    
