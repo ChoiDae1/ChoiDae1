@@ -2,9 +2,10 @@
   <p><strong> I'm a student dreaming of becoming an AI Researcher.<br>
   Currently, Studying at Korea University and Participating undergraduate research intern of <a href="https://cvlab.korea.ac.kr/">CVLAB</a>, Vision Lab.   </strong></p>
   <div align="center">
-    <strong>To know more info about me, Pls look over my CV or Blog.</strong> 
+    <strong>To know more info about me, Pls look over my CV or Portfolio or Blog.</strong> 
     <div align="center">
     :arrow_right: <a href="https://github.com/ChoiDae1/ChoiDae1/files/10474597/CV.pdf"><b>CV</b></a>&nbsp;
+    :arrow_right: <a href="https://github.com/ChoiDae1/ChoiDae1/files/10474667/default.pdf"><b>Portfolio</b></a>&nbsp;
     :arrow_right: <a href="https://science886.tistory.com/"><b>Blog</b></a>
     </div>
     <strong>To contact me, Pls use Email or Instagram.</strong>    
@@ -12,6 +13,7 @@
     <a href="mailto:daeone0920@korea.ac.kr"><img src="https://img.shields.io/badge/Gmail-DCDCDC?style=flat-square&logo=Gmail&logoColor=EA4335"/>
     <a href="https://www.instagram.com/choi_dae1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=black"/>
     </div>
+
 
 </div>
 
