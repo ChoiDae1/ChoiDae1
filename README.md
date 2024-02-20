@@ -1,6 +1,6 @@
-<div align="center"><h1>&nbsp;&nbsp;Hello!:raised_hands:</h1>
-  <p><strong> I'm currently in the master's program at KAIST. </strong></p>
+<div align="center"><h1>&nbsp;&nbsp;Hello! :raised_hands:</h1>
   <div align="center">
+    <strong> I'm currently in the master's program at KAIST. </strong> </br>
     <strong>To know more info about me, Pls look over my CV or Blog.</strong> 
     <div align="center">
     :arrow_right: <a href="https://github.com/ChoiDae1/ChoiDae1/files/13489786/CV.pdf"><b>CV</b></a>&nbsp;
@@ -19,7 +19,7 @@
 
 
 <div align='center'>
-<h1>&nbsp;&nbsp;Interest:mag_right:</h1>
+<h1>&nbsp;&nbsp;Interest :mag_right:</h1>
 <p>
 <b>
 -&nbsp;Robustness<br>
