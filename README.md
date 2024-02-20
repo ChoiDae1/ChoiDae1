@@ -1,6 +1,5 @@
 <div align="center"><h1>&nbsp;&nbsp;Hello!:raised_hands:</h1>
-  <p><strong> I'm a student dreaming of becoming an AI Researcher.<br>
-  Currently, Studying at Korea University.   </strong></p>
+  <p><strong> I'm currently in the master's program at KAIST. </strong></p>
   <div align="center">
     <strong>To know more info about me, Pls look over my CV or Blog.</strong> 
     <div align="center">
