@@ -20,9 +20,8 @@
 <h1>&nbsp;&nbsp;Interest :mag_right:</h1>
 <p>
 <b>
--&nbsp;Robustness<br>
--&nbsp;Meta-learning, Self-Supervised learning<br>
--&nbsp;2D/3D Generative models (GAN, Diffusion)<br>
+-&nbsp;Large language models<br>
+-&nbsp;Vision foundation models<br>
 </b>
 </p>
 </div>
